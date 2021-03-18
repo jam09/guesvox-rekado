@@ -351,7 +351,7 @@ nav {
 }
 
 .f-slider-3 {
-    background-image: url(../images2/Banners\ \(2\).png);
+    background-image: url(../img/back/1x/BACK3.png);
 }
 
 .slider-text-container {
@@ -1118,7 +1118,7 @@ h2 {
     /* background-image: url("images/poduct%20bg.png"); */
     /* background-image: url("../images/poduct\ bg.png"); */
     /* background-image: url("../img/back/1x/backj1.png"); */
-    background-image: url(../img/back/1x/backj1.png);
+    background-image: url('../img/back/1x/backj1.png');
     /* background-image: url(../img/back/1x/BACK3.png); */
     background-size: 1920px;
     /* background-position: center; */
